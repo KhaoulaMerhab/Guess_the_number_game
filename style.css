@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+#container{
+    text-align: center;
+    margin: 5rem auto;
+    /*padding: 9rem; **/
+   text-transform: capitalize;
+   font-size: 1.2em;
+   line-height: 2em;
+   font-weight: bold;
+}
+input{
+    width: 25%;
+    padding: 0.5rem;
+}
+button{
+    padding: 0.5rem;
+    text-transform: capitalize;
+}
